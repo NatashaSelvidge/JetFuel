@@ -1,0 +1,28 @@
+.campaign {
+  display: flex;
+  align-items: center;
+  font-family:'Franklin Gothic Medium', Arial, sans-serif;
+}
+
+.campaign__iconURL {
+  width: 60px;
+  height: 60px;
+  border-radius: 10px;
+}
+.campaign__name {
+  font-size: 18px;
+  margin-left: 10px;
+  margin-bottom: 0;
+  margin-top: 20px;
+
+}
+p {
+  margin-left: 10px;
+  color: #1a8e38;
+  font-size: 16px;
+  margin-top: 6px;
+ 
+}
+small {
+  font-weight: lighter;
+}
